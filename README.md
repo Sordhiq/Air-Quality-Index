@@ -1,4 +1,4 @@
-# Air_Quality_Index
+# Air Quality Index Prediction 
 A Prediction Model to Predict Air Quality across different countries of the World
 
 
